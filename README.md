@@ -4,7 +4,7 @@
 Among Ogg Vorbis encoders, aoTuV is the leader in quality.   
 Encoding speed compared to original aoTuV can be 100-200% faster.
 
-![aimp](aotuv.png)
+![aimp](ogg.png)
 
 According to testing results, Lancer is 2-10% faster, depending on the configuration and encoding parameters.   
 
